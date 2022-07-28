@@ -1,16 +1,16 @@
-# shifting_focus_to_next_textfield
+# Как переключить фокус с одного текстового поля на другое во Flutter.
 
-Shifting focus to the next TextField example.
+Переключение фокуса в форме с одного текстового поля на другое во флаттер используя textInputAction: TextInputAction.next и textInputAction: TextInputAction.done.
 
-## Getting Started
+Ссылки:
+- Видео: https://www.youtube.com/watch?v=yTj5zD9g_RY
+- Текстовая версия: https://the-unl.com/edit/kak-pereklyuchit-fokus-s-odnogo-tekstovogo-polya-na-drugoe-vo-flutter-9
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Социальные сети:
+- Telegram https://t.me/the_cybermania
+- Instagram https://www.instagram.com/alexeyshpavda
+- LinkedIn https://www.linkedin.com/in/alexeyshpavda
+- Vk https://vk.com/alexeyshpavda
+- Twitter https://twitter.com/alexeyshpavda
+- Facebook https://www.facebook.com/alexeyshpavda
+- GitHub https://github.com/alexeyshpavda
